@@ -7,5 +7,13 @@
 </head>
 <body>
 	<h3>데이터 형</h3>
+	${iVal }<br>
+	${fVal }<br>
+	${sVal }<br>
+	${bVal }<br>
+	-----${nullVal }-----<br>
+	-----${name }-----<br>
+	${userVo.no } : ${userVo.email }
+	
 </body>
 </html>
